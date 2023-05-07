@@ -1,4 +1,2 @@
 
 ## Nextjs-App MyBlog 
-
-
